@@ -3,6 +3,7 @@
 This module contains the "add" function
 """
 
+
 def add(a: float, b: float) -> float:
-	"""A add function"""
-	return a + b
+    """A add function"""
+    return a + b

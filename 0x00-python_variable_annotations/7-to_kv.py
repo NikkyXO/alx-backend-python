@@ -6,5 +6,6 @@ from typing import List, Union, Tuple
 
 
 def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
-	"""The to_kv function"""
-	return (k, v**2)
+
+    """The to_kv function"""
+    return (k, v**2)
