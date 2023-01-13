@@ -1,4 +1,4 @@
-/usr/bin/env python3
+#/usr/bin/env python3
 '''Module for measure_time function.
 '''
 import asyncio
